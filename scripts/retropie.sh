@@ -4,7 +4,7 @@
 # This scripts starts the emulationstation watchdog deamon and
 # emulationstation itself while stopping KODI afterwards.
 # Script by mcobit
-
+cd /home/osmc
 #clear the virtaul terminal 7 screen
 
 sudo openvt -c 7 -s -f clear
